@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiagraecainh06homeuoft_0010.png"; bbox 0 0 1939 3246; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 772 1165 1267 1284">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 772 1165 1267 1284">
+     <span class='ocr_line' id='line_1_1' title="bbox 926 1165 1109 1207; baseline -0.005 -7"><span class='ocrx_word' id='word_1_1' title='bbox 926 1165 1109 1207; x_wconf 56' lang='lat' dir='ltr'>guahan</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 772 1252 1267 1284; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 772 1252 977 1284; x_wconf 76' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_3' title='bbox 1016 1252 1267 1284; x_wconf 84' lang='lat' dir='ltr'><strong>FROWDE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 823 1369 1189 1756">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 823 1369 1189 1756">
+     <span class='ocr_line' id='line_1_3' title="bbox 823 1369 1189 1756; baseline 0 1490"><span class='ocrx_word' id='word_1_4' title='bbox 823 1369 1189 1756; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 610 1806 1428 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 610 1806 1428 1842">
+     <span class='ocr_line' id='line_1_4' title="bbox 610 1806 1428 1842; baseline -0.01 1"><span class='ocrx_word' id='word_1_5' title='bbox 610 1810 768 1842; x_wconf 78' lang='lat' dir='ltr'>OXFORD</span> <span class='ocrx_word' id='word_1_6' title='bbox 792 1810 1027 1842; x_wconf 66' lang='lat' dir='ltr'>Umvssnsmv</span> <span class='ocrx_word' id='word_1_7' title='bbox 1050 1808 1162 1839; x_wconf 72' lang='lat' dir='ltr'>szss</span> <span class='ocrx_word' id='word_1_8' title='bbox 1186 1806 1428 1837; x_wconf 74' lang='lat' dir='ltr'>WAREHOUSE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 815 1895 1229 1933">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 815 1895 1229 1933">
+     <span class='ocr_line' id='line_1_5' title="bbox 815 1895 1229 1933; baseline -0.005 -3"><span class='ocrx_word' id='word_1_9' title='bbox 815 1900 929 1930; x_wconf 82' lang='lat' dir='ltr'>AMEN</span> <span class='ocrx_word' id='word_1_10' title='bbox 956 1898 1124 1933; x_wconf 67' lang='lat' dir='ltr'><strong>Comum,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1151 1895 1229 1928; x_wconf 89' lang='lat' dir='ltr'>E.C.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
